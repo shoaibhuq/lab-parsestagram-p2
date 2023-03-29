@@ -4,7 +4,6 @@
 //
 //  Created by Charlie Hieger on 10/29/22.
 //
-
 import UIKit
 
 // TODO: Pt 1 - Import Parse Swift
@@ -55,4 +54,3 @@ class LoginViewController: UIViewController {
         present(alertController, animated: true)
     }
 }
-
